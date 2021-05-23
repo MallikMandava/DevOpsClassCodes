@@ -61,7 +61,7 @@ public class StringUtilities {
 	 */
 	private final static String STRING_TYPE ="string";
 	/**
-	 * Logger enabled for the current class
+	 * Logger enabled for the current class , LOggers re  enabled`:
 	 */
 	private static final Logger LOG =LoggerFactory.getLogger(StringUtilities.class);
 

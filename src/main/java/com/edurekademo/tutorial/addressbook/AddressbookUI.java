@@ -86,6 +86,7 @@ public class AddressbookUI extends UI {
         refreshContacts();
     }
 
+    
     /*
      * Robust layouts.
      *
